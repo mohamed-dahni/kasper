@@ -7,3 +7,4 @@ https://mohamed-dahni.github.io/kasper/
 ### Technologies
 - HTML
 - CSS
+- JavaScript
